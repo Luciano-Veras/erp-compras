@@ -1,0 +1,20 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Archivos de entorno y herramientas
+.vscode/
+.cursor/
+.gemini/
+.agents/
+firebase-applet-config.json
+metadata.json
+bun.lock
+
+# Archivos temporales de SO
+Thumbs.db
