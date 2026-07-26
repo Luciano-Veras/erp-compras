@@ -12,7 +12,6 @@ coverage/
 .cursor/
 .gemini/
 .agents/
-firebase-applet-config.json
 metadata.json
 bun.lock
 
