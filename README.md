@@ -13,8 +13,6 @@ Un sistema de planificación de recursos empresariales (ERP) moderno enfocado en
 
 ## 📸 Capturas de Pantalla
 
-> *(Reemplaza estas imágenes de marcador de posición con tus capturas de pantalla reales guardando tus capturas en la carpeta `assets`)*
-
 ### Dashboard
 ![Dashboard del ERP](./assets/dashboard.png)
 
